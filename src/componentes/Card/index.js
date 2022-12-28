@@ -78,7 +78,7 @@ export const Card = (props)=>{
                     
                 <CampoTexto 
                     label="Imagem" 
-                    placeholder="Sua imagem aqui" 
+                    placeholder="Endereço da URL de sua imagem" 
                     valor = {imagem}
                     aoAlterado = {valor => setImagem(valor)}
                     />
