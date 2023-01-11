@@ -1,10 +1,9 @@
 import styled from "styled-components";
 
 const ImagemBanner = styled.img`
-    max-width:100%;
+    width:100%;
     backgroung-color: #6278F7;
     text-align:center;
-
 `
 
 function Banner(){
